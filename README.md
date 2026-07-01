@@ -1,19 +1,7 @@
-# 🛍️ KMFRUY - E-commerce Website
+# 🛍️ KMFRUY - E-commerce Frontend
 
-A modern and responsive e-commerce frontend built for a freelance project.  
-The website provides a clean UI for browsing products, searching, and managing a shopping cart.
-
----
-
-## 🚀 Features
-
-- 🧭 Responsive Navigation Bar
-- 🔍 Product Search UI
-- ❤️ Wishlist Icon
-- 🛒 Shopping Cart Page
-- 🎯 Clean and Modern UI Design
-- ⚡ Smooth Animations (ScrollReveal)
-- 📱 Fully Responsive Design
+A modern, responsive e-commerce website built as a freelance project to deliver a clean and engaging shopping experience.  
+This project focuses on UI/UX quality, performance, and scalability for future backend integration.
 
 ---
 
@@ -25,33 +13,45 @@ The website provides a clean UI for browsing products, searching, and managing a
 ![prview](./preview/p4.png)
 ![prview](./preview/p5.png)
 
+---
+
+## ✨ Features
+
+- 🧭 Clean & responsive navigation bar  
+- 🔍 Product search interface  
+- 🛒 Shopping cart page  
+- ❤️ Wishlist functionality (UI)  
+- 📱 Fully responsive design (mobile-first)  
+- ⚡ Smooth scroll animations  
+- 🎯 Modern UI/UX design  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- ScrollReveal.js
-- Swiper.js
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- ScrollReveal.js  
+- Swiper.js  
 
 ---
 
-## 📂 Project Structure
-KMFRUY/
-│── index.html
-│── sign-up.html
-│── cart.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── image/
-│   └── (assets & icons)
-│
-└── images/
-    └── preview.png
+
+---
+
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/kmfruy.git
+
+2️⃣ Navigate into the project
+cd kmfruy
+
+3️⃣ Run the project
+Open index.html in your browser.
+
+
+👨‍💻 Author
+Abdelrahman Youssef
