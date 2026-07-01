@@ -39,3 +39,19 @@ The website provides a clean UI for browsing products, searching, and managing a
 ---
 
 ## 📂 Project Structure
+KMFRUY/
+│── index.html
+│── sign-up.html
+│── cart.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── image/
+│   └── (assets & icons)
+│
+└── images/
+    └── preview.png
